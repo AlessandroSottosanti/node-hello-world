@@ -1,0 +1,17 @@
+{
+  "name": "vocals",
+  "version": "1.0.0",
+  "description": "conta le vocali di una parola o frase inserita da terminale e restituisce il risultato in quest'ultimo.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [
+    "node",
+    "vocals",
+    "count"
+  ],
+  "author": "Alessandro Sottosanti",
+  "license": "ISC"
+}
