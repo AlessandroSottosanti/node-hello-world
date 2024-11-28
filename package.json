@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "first node exercise",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlessandroSottosanti/node-hello-world"
+  },
+  "keywords": [
+    "node",
+    "exercise"
+  ],
+  "author": "Alessandro Sottosanti",
+  "license": "ISC"
+}
